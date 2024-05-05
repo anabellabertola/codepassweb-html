@@ -214,6 +214,15 @@ body {
   transition: background-color 0.3s ease;
 }
 
+.btn-codigo {
+  margin-left: 43%;
+  margin-top: 17%;
+  background-color: transparent;
+  border-color: #E6C573;
+  color: white;
+  padding: 3%;
+  box-shadow: 1px 1px 10px rgba(255, 249, 196);
+}
 .nombre p {
   margin-top: 50px;
   text-align: center;
