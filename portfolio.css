@@ -222,6 +222,7 @@ body {
   color: white;
   padding: 3%;
   box-shadow: 1px 1px 10px rgba(255, 249, 196);
+  cursor: pointer;
 }
 .nombre p {
   margin-top: 50px;
