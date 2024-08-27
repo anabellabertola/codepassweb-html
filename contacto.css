@@ -6,9 +6,10 @@
 
 body {
     font-family: 'Roboto', 'Dancing Script';
-    background-image:  url("img/fondo.png");
+    background-image:  url("img/negrofondo.webp");
     background-repeat: no-repeat;
     background-position: center;
+    background-attachment: fixed;
     background-size: cover;
 }
 
